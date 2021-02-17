@@ -1,1 +1,6 @@
 body {background-color:white; font:arial; color:black;}
+.centerImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
